@@ -1,0 +1,7 @@
+Heaps are data structures that are arranged such that the root element is either largest or smallest as per the heap type.
+Every heap follows two things to become a heap : 
+1) It should be a complete binary tree
+2) It should follow heap order traversal i.e every child of a node should be either greater(min-heap) or smaller(max heap) than its parent. 
+
+
+In this repository we are going to explore the heaps and work on few questions that depict the heap usage in real life.
